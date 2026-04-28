@@ -1,3 +1,8 @@
+<!-- ghmig:moved -->
+> **This repository has moved to [https://git.navicore.tech/navicore/triples-lab](https://git.navicore.tech/navicore/triples-lab).**
+>
+> The GitHub copy is archived and no longer maintained.
+
 Triples Lab
 -----
 
